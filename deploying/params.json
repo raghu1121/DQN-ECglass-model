@@ -1,0 +1,17 @@
+{
+  "buffer_size": 1000000,
+  "env": "ECglass-v2",
+  "exploration_final_eps": 0.01,
+  "exploration_fraction": 1,
+  "gamma": 0,
+  "hiddens": [
+    4096,
+    2048
+  ],
+  "learning_starts": 64,
+  "lr": 5e-05,
+  "schedule_max_timesteps": 700000,
+  "target_network_update_freq": 25000,
+  "timesteps_per_iteration": 8760,
+  "train_batch_size": 250
+}
