@@ -1,0 +1,12 @@
+*.pyc
+*.csv
+*.dgps
+*.ill
+*.txt
+*.out
+*.db
+*.err
+*.dgpe
+*lock*
+*.rar
+.idea
